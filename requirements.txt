@@ -3,3 +3,14 @@ pypdf
 fastembed
 httpx
 websockets
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+alembic
+pydantic-settings
+pydantic[email]
+python-multipart
+python-jose[cryptography]
+bcrypt
+pgvector
