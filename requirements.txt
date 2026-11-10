@@ -1,0 +1,5 @@
+pgvector
+pypdf
+fastembed
+httpx
+websockets
